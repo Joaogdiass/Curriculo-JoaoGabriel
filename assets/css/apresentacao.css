@@ -23,8 +23,13 @@
     width: 50%;
     height: 400px;
     display: flex;
-    justify-content: center;
-    color: white;
-    text-decoration: none;
 }
 
+.bemvindo{
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
